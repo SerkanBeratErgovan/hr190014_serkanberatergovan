@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/liste_green_background"
+    app:layout_editor_absoluteX="@dimen/liste_rcvmeyveler_layout_editor_absoluteX"
+    tools:context=".activity.ListActivity">
+
+    <ImageView
+        android:id="@+id/imgKapak"
+        android:layout_width="@dimen/liste_imgKapak_layout_width"
+        android:layout_height="@dimen/liste_imgKapak_layout_height"
+        android:scaleType="fitXY"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/banner_fruit" />
+
+    <TextView
+        android:id="@+id/txtAnaBaslik"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/liste_txtAnaBaslik_layout_MarginBottom"
+        android:text="@string/list_anabaslik_text"
+        android:textColor="@color/txt_AnaBaslik_color_black"
+        android:textSize="@dimen/liste_txtAnaBaslik_TextSize"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="@+id/imgKapak"
+        app:layout_constraintEnd_toEndOf="@+id/imgKapak"
+        app:layout_constraintStart_toStartOf="@+id/imgKapak"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rcvMeyveler"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/liste_rcvmeyveler_layout_height"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imgKapak"
+        tools:layout_editor_absoluteX="@dimen/liste_rcvmeyveler_layout_editor_absoluteX"
+        tools:listitem="@layout/cardview_meyve" />
+</androidx.constraintlayout.widget.ConstraintLayout>

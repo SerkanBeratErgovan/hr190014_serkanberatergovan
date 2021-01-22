@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="liste_imgKapak_layout_width">410dp</dimen>
+    <dimen name="liste_imgKapak_layout_height">183dp</dimen>
+    <dimen name="liste_txtAnaBaslik_layout_MarginBottom">50dp</dimen>
+    <dimen name="liste_txtAnaBaslik_TextSize">18sp</dimen>
+    <dimen name="liste_rcvmeyveler_layout_height">0dp</dimen>
+    <dimen name="liste_rcvmeyveler_layout_editor_absoluteX">130dp</dimen>
+
+    <dimen name="meyve_detail_imgKapak_layout_height">200dp</dimen>
+    <dimen name="meyve_detail_txtBaslik_padding">10dp</dimen>
+    <dimen name="meyve_detail_txtBaslik_textsize">30sp</dimen>
+    <dimen name="meyve_detail_txtDetay_padding">10dp</dimen>
+    <dimen name="meyve_detail_txtDetay_textsize">18sp</dimen>
+    <dimen name="meyve_detail_txtBaslik2_padding">10dp</dimen>
+    <dimen name="meyve_detail_txtBaslik2_textsize">25sp</dimen>
+    <dimen name="meyve_detail_txtDetay2_padding">10dp</dimen>
+    <dimen name="meyve_detail_txtDetay2_textsize">18sp</dimen>
+
+    <dimen name="splash_layout_width">350dp</dimen>
+    <dimen name="splash_layout_height">350dp</dimen>
+
+    <dimen name="cardview_layout_margin">16dp</dimen>
+    <dimen name="cardview_imgMeyveLogo_layout_width">100dp</dimen>
+    <dimen name="cardview_imgMeyveLogo_layout_height">100dp</dimen>
+    <dimen name="cardview_imgMeyveLogo_layout_marginStart">16dp</dimen>
+    <dimen name="cardview_imgMeyveLogo_layout_marginTop">16dp</dimen>
+    <dimen name="cardview_imgMeyveLogo_layout_marginBottom">16dp</dimen>
+    <dimen name="cardview_txtMeyveAdi_layout_marginStart">16dp</dimen>
+    <dimen name="cardview_txtMeyveAdi_textSize">30dp</dimen>
+    <dimen name="cardview_txtVitamin_layout_marginStart">16dp</dimen>
+    <dimen name="cardview_txtVitamin_layout_marginTop">16dp</dimen>
+</resources>

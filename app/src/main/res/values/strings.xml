@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HR190014_SerkanBeratErgovanFinal</string>
+    <string name="internet_exit_message">"İnternet Bağlantısı Yok. Lütfen İnternet Bağlantınızı Kontrol Ediniz."</string>
+    <string name="internet_negative_button">"Kapat!"</string>
+    <string name="internet_positive_button">"İnterneti Aç!"</string>
+    <string name="exit_message">"Uygulamayı Kapatmak İstiyor Musun ?"</string>
+    <string name="negative_button">"Hayır!"</string>
+    <string name="positive_button">"Evet"</string>
+    <string name="baslik_fayda">Meyvesinin Faydalari</string>
+    <string name="tiklanan_meyve_basligi">TIKLANAN ADI : </string>
+    <string name="informations_loading_bar">Bilgiler Yükleniyor... </string>
+    <string name="list_anabaslik_text">MEYVELERİN FAYDALARI</string>
+    <string name="meyvedetail_baslik_text">BASLIK</string>
+    <string name="meyvedetail_detay_text">DETAY</string>
+    <string name="meyvedetail_baslik2_text">BASLİK 2</string>
+    <string name="meyvedetail_detay2_text">DETAY 2</string>
+    <string name="cardview_meyveAdi_text">PORTAKAL</string>
+    <string name="cardview_Vitamin_text">C Vitamini</string>
+
+</resources>

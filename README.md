@@ -10,11 +10,11 @@ Bu uygulama insanların yedikleri meyvelerin faydalarını görebilmesi için ya
 ![kolaj](https://user-images.githubusercontent.com/60935995/105431717-37a6d780-5c67-11eb-9d9e-86e73297e229.PNG)
 
 # Projede Kullanılan Teknolojiler
-<ol>
+<ul>
   <li> * RxJava </li>
   <li> * Okhttp </li>
   <li> * Glide </li>
   <li> * Retrofit2 </li>
-</ol> 
+</ul> 
 
 # Uygulamanın Açık Kaynak Lisansı

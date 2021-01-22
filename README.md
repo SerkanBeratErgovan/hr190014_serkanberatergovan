@@ -1,6 +1,6 @@
 # Proje Logosu
 
-![ic_launcher_image](https://user-images.githubusercontent.com/60935995/105431794-691fa300-5c67-11eb-8245-791c7e418beb.jpg)
+![ic_launcher_round](https://user-images.githubusercontent.com/60935995/105431949-b439b600-5c67-11eb-9aa6-b78adac5a2ef.png)
 
 
 # Proje Hakkında

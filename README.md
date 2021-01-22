@@ -1,6 +1,7 @@
 # Proje Logosu
 
-![appicon](https://user-images.githubusercontent.com/60935995/105430468-a2a2df00-5c64-11eb-8375-987322d0f94f.png)
+![ic_launcher_image](https://user-images.githubusercontent.com/60935995/105431794-691fa300-5c67-11eb-8245-791c7e418beb.jpg)
+
 
 # Proje Hakkında
 Bu uygulama insanların yedikleri meyvelerin faydalarını görebilmesi için yapılmıştır. Kullanıcı yediği meyvenin vitaminini,meyve familyasını ve meyvenin genel özelliklerini öğrenebilir.

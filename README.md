@@ -11,10 +11,10 @@ Bu uygulama insanların yedikleri meyvelerin faydalarını görebilmesi için ya
 
 # Projede Kullanılan Teknolojiler
 <ul>
-  <li> * RxJava </li>
-  <li> * Okhttp </li>
-  <li> * Glide </li>
-  <li> * Retrofit2 </li>
+  <li>RxJava </li>
+  <li>Okhttp </li>
+  <li>Glide </li>
+  <li>Retrofit2 </li>
 </ul> 
 
 # Uygulamanın Açık Kaynak Lisansı

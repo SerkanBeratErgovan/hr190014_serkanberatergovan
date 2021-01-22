@@ -4,7 +4,7 @@
 
 
 # Proje Hakkında
-Bu uygulama insanların yedikleri meyvelerin faydalarını görebilmesi için yapılmıştır. Kullanıcı yediği meyvenin vitaminini,meyve familyasını ve meyvenin genel özelliklerini öğrenebilir.
+Bu uygulama meyvelerin faydalarını kolayca öğrenebilmek için yapılmıştır. Uygulama içinde meyvenin vitamini,familyası,ve bir çok özellikleri bulunur.
 
 # Uygulamanın Ekran Görüntüleri
 ![kolaj](https://user-images.githubusercontent.com/60935995/105433018-daf8ec00-5c69-11eb-8b79-83c1e35a8f11.PNG)

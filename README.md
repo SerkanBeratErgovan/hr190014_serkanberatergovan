@@ -15,9 +15,9 @@ Bu uygulama insanların yedikleri meyvelerin faydalarını görebilmesi için ya
 # Projede Kullanılan Teknolojiler
 <ul>
   <li>RxJava <a href="https://github.com/ReactiveX/RxJava"</a></li>
-  <li>Okhttp <a href="https://github.com/ReactiveX/RxJava"</a></li>
-  <li>Glide  <a href="https://github.com/ReactiveX/RxJava"</a></li>
-  <li>Retrofit2 <a href="https://github.com/ReactiveX/RxJava"</a></li>
+  <li>Okhttp <a href="https://github.com/square/okhttp"</a></li>
+  <li>Glide  <a href="https://github.com/bumptech/glide"</a></li>
+  <li>Retrofit2 <a href="https://github.com/square/retrofit"</a></li>
 </ul> 
 
 # Uygulamanın Açık Kaynak Lisansı
